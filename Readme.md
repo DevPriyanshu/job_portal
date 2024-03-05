@@ -10,7 +10,7 @@
 ## Author
 - [Priyanshu Yadav] https://github.com/DevPriyanshu
 
-## Requirment SDK
+## Requirment SDK & Tools
 - Java 8
 - Mysql server
 - Tomcat server 
